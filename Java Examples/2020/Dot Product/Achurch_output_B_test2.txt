@@ -1,0 +1,4 @@
+Dot product 0: 16.338
+Dot product 1: 10.775
+Dot product 2: 23.885
+Dot product 3: 12.322

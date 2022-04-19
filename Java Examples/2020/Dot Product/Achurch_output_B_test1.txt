@@ -1,0 +1,5 @@
+Dot product 0: 34.0
+Dot product 1: 22.0
+Dot product 2: 23.0
+Dot product 3: 29.0
+Dot product 4: 31.0

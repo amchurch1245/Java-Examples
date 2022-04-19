@@ -1,0 +1,5 @@
+Arrays
+Purpose:
+To write a program to manipulate arrays by creating arrays,
+filling arrays with different types of values, merging arrays,
+sorting arrays, and displaying arrays. 

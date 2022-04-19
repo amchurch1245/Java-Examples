@@ -1,0 +1,4 @@
+Array Manipulation
+Purpose: To write a program that creates two arrays and performs several
+manipulations on them. The first array stores rainfall amounts
+and the second stores city names that correspond to the first. 

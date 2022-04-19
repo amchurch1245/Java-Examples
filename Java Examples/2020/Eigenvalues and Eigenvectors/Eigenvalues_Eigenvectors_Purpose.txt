@@ -1,0 +1,3 @@
+Eigenvalues and Eigenvectors
+Purpose: to use matricies, vectors, and determinants to create a program
+the returns eigenvalues and eigenvectors

@@ -1,0 +1,3 @@
+Dog Class
+Purpose: To learn how classes and instances in java work, as well as to 
+familarize myself with arrays.

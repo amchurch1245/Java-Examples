@@ -1,0 +1,3 @@
+Arrays and Matricies
+Purpose: to use 2D arrays that generates and writes out five matricies. The
+matricies are generated and not hard coded.

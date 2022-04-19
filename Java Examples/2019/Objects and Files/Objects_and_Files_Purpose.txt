@@ -1,0 +1,4 @@
+Objects and Files
+Purpose: To learn more about objects and how to write a file by
+creating race car objects, placing them into an array, and
+simulating a race.

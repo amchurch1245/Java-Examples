@@ -1,0 +1,3 @@
+Parent and Child Classes
+Purpose: To learn how to use classes as a hierarchy with parent classes
+and child classes.
